@@ -1,7 +1,7 @@
 pipeline {
     agent none
     environment {
-        imageName = 'yutanui/demoApi'
+        imageName = 'yutanui/demoapi'
         port = 3030
     }
     
